@@ -1,0 +1,18 @@
+youtube = http://www.youtube.com/@Obajorba
+
+bandcamp = https://myurls.co/ba3bass/links/63f20244484f38002b9c2da0/click
+
+Instagram = https://myurls.co/ba3bass/links/60462de1171de7004d180ab7/click
+
+soundcloud = https://myurls.co/ba3bass/links/63f20277484f3800359c2da2/click
+
+
+****************************************************************************************************************
+
+🍁⛩🍁Obajorba is the mystical veil that was born from the dance between darkness and light through great ritual magic to 
+bring forth the truth to the worlds with the power of transcendental sound vibrations.
+
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-yin-yang" viewBox="0 0 16 16">
+        <path d="M9.167 4.5a1.167 1.167 0 1 1-2.334 0 1.167 1.167 0 0 1 2.334 0"/>
+        <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0M1 8a7 7 0 0 1 7-7 3.5 3.5 0 1 1 0 7 3.5 3.5 0 1 0 0 7 7 7 0 0 1-7-7m7 4.667a1.167 1.167 0 1 1 0-2.334 1.167 1.167 0 0 1 0 2.334"/>
+      </svg>
